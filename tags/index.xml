@@ -6,7 +6,25 @@
     <description>Recent content in Tags on KBSIs&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Fri, 16 Apr 2021 21:16:05 +0900</lastBuildDate><atom:link href="https://idichi.tk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Oct 2021 16:16:05 +0900</lastBuildDate><atom:link href="https://idichi.tk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS</title>
+      <link>https://idichi.tk/tags/aws/</link>
+      <pubDate>Sun, 10 Oct 2021 16:16:05 +0900</pubDate>
+      
+      <guid>https://idichi.tk/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EC2</title>
+      <link>https://idichi.tk/tags/ec2/</link>
+      <pubDate>Sun, 10 Oct 2021 16:16:05 +0900</pubDate>
+      
+      <guid>https://idichi.tk/tags/ec2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cookie</title>
       <link>https://idichi.tk/tags/cookie/</link>
