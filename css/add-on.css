@@ -167,3 +167,8 @@ p {
 .index-box ul li i{
   padding-right: 5px;
 }
+
+img{
+  width: 100%;
+  height: auto;
+}
